@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import ProfileCard from "../components/profileCard";
+import ProfileCard from "../components/profilecard";
 import React from "react";
 
 const ProfilePage = () => {

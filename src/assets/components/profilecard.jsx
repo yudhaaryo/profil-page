@@ -1,4 +1,4 @@
-import NameDisplay from "./nameDisplay";
+import NameDisplay from "./namedisplay";
 import InfoSection from "./infosection";
 import React from "react";
 
