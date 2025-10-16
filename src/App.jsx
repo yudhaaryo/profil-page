@@ -1,6 +1,6 @@
 import { useState } from "react";
 import React from "react";
-import ProfilePage from "./assets/pages/profilePage";
+import ProfilePage from "./assets/pages/profilepage";
 function App() {
   return (
     <>
